@@ -1,11 +1,13 @@
-body{
+body {
     text-align: center;
     background-color: rgb(204, 253, 165);
 }
-button{
+
+button {
     background-color: blue;
     color: white;
 }
-p{
+
+p {
     font-family: 'Courier New', Courier, monospace;
 }
